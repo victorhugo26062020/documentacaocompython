@@ -1,0 +1,18 @@
+# Ambiente Virtual do Python
+venv/
+.venv/
+env/
+.env
+
+# Arquivos de configuração do PyCharm
+.idea/
+
+# Arquivos compilados do Python
+__pycache__/
+*.pyc
+
+# Arquivo de configuração local (se você tiver um)
+config.py
+
+# Arquivo para guardar segredos (vamos criar a seguir)
+.env
